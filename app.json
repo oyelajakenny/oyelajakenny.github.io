@@ -4,13 +4,30 @@
  {
   "base": "USD" ,
   "rates": {
-    "EUR": 0.85
+    "EUR": 0.85,
+    "JPY": 110.0,
+    "AUD": 1.35,
+    "CAD": 1.25,
+    "CHF": 0.91,
+    "CNY": 6.47,
+    "INR": 74.0,
+    "NGN": 1600
+    
   }
 }, 
 {
   "base": "DKK" ,
   "rates": {
-    "EUR": 0.85
+    "EUR": 7,
+    "USD": 7.5
+
+  }
+},
+{
+  "base": "GBP" ,
+  "rates": {
+    "NGN": 2000,
+    "DKK": 10
   }
 }
 ]
